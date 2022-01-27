@@ -1,0 +1,2 @@
+2022-01-27T04:17:39+00:00 CRITICAL Out of memory (allocated 39845888) (tried to allocate 20480 bytes) in C:\xampp\htdocs\DelishMeals\wp-includes\functions.php on line 642
+
