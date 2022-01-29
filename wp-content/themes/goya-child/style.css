@@ -16,3 +16,6 @@
 .nf-form-fields-required{
 	display:none;
 }
+.et-iconbox.layout-centered .et-feature-icon img{
+	width:100px;
+}
