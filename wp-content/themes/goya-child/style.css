@@ -1,0 +1,27 @@
+/**
+* Theme Name: Goya Child Theme
+* Description: This is a child theme of Goya, automatically generated.
+* Author: <a href="https://themeforest.net/user/everthemess">Everthemes</a>
+* Template: goya
+* Version: 1.0.6.7
+*/
+
+.et-product-detail .single_add_to_cart_button, .sticky-product-bar .single_add_to_cart_button, .sticky-product-bar .add_to_cart_button, .woocommerce-mini-cart__buttons .button.checkout, .button.checkout-button, #place_order.button, .woocommerce .argmc-wrapper .argmc-nav-buttons .argmc-submit, .wishlist_table .add_to_cart{
+	    background-color: #f9a000 !important;
+}
+
+.et-product-detail .variations_form .variations{
+	margin-bottom:0px !important;
+}
+.nf-form-fields-required{
+	display:none;
+}
+
+.et-iconbox.layout-centered .et-feature-icon img{
+	width:100%;
+	height:auto;
+}
+.vc_custom_1579114943204{
+	background-color:white !important;
+}
+

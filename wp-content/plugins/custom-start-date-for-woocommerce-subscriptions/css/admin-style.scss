@@ -1,0 +1,53 @@
+.wscsd_custom_star_date {
+margin: 20px;
+	.wscsd_add_dates{
+		padding: 5px 8px;
+		background: #007cba;
+		color: #fff;
+		border-radius: 5px;
+		cursor: pointer;
+	}
+	.wscsd_dates_display, .wscsd_delay_display {
+		padding: 5px 20px 0px 162px;
+		.wscsd_fixed_start_date, .wscsd_fixed_delay {
+			padding: 5px 8px;
+			background: #c9e3f0;
+			//color: #fff;
+			border-radius: 5px;
+			margin-right: 10px;
+			display: inline-block;
+	    	margin-bottom: 10px;
+			.wscsd_fixed_start_date_delete, .wscsd_fixed_delay_delete {
+				padding-left: 7px;
+				cursor: pointer;
+
+			}
+		}
+	}
+	.wscsd_fixed_start_dates_deleteall, .wscsd_fixed_delays_deleteall {
+		margin-left: 162px;
+		padding: 5px 10px 5px 10px;
+		cursor: pointer;
+		svg {
+			margin-top: 3px;
+		}
+		&:hover {
+			background: #f1f1f1;
+			border-radius: 5px	;
+		}
+	}
+}
+.woocommerce_variable_attributes {
+	.wscsd_custom_star_date {
+		margin: 20px 0px;
+	}
+	.wscsd_variation {
+		.wscsd_dates_display, .wscsd_delay_display {
+			padding: 5px 20px 0px 0px;
+		}
+		.wscsd_fixed_start_dates_deleteall, .wscsd_fixed_delays_deleteall {
+			margin-left: 0px;
+		}
+	}
+
+}

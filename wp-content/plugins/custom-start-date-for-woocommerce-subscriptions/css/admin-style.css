@@ -1,0 +1,38 @@
+.wscsd_custom_star_date {
+  margin: 20px; }
+  .wscsd_custom_star_date .wscsd_add_dates {
+    padding: 5px 8px;
+    background: #007cba;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer; }
+  .wscsd_custom_star_date .wscsd_dates_display, .wscsd_custom_star_date .wscsd_delay_display {
+    padding: 5px 20px 0px 162px; }
+    .wscsd_custom_star_date .wscsd_dates_display .wscsd_fixed_start_date, .wscsd_custom_star_date .wscsd_dates_display .wscsd_fixed_delay, .wscsd_custom_star_date .wscsd_delay_display .wscsd_fixed_start_date, .wscsd_custom_star_date .wscsd_delay_display .wscsd_fixed_delay {
+      padding: 5px 8px;
+      background: #c9e3f0;
+      border-radius: 5px;
+      margin-right: 10px;
+      display: inline-block;
+      margin-bottom: 10px; }
+      .wscsd_custom_star_date .wscsd_dates_display .wscsd_fixed_start_date .wscsd_fixed_start_date_delete, .wscsd_custom_star_date .wscsd_dates_display .wscsd_fixed_start_date .wscsd_fixed_delay_delete, .wscsd_custom_star_date .wscsd_dates_display .wscsd_fixed_delay .wscsd_fixed_start_date_delete, .wscsd_custom_star_date .wscsd_dates_display .wscsd_fixed_delay .wscsd_fixed_delay_delete, .wscsd_custom_star_date .wscsd_delay_display .wscsd_fixed_start_date .wscsd_fixed_start_date_delete, .wscsd_custom_star_date .wscsd_delay_display .wscsd_fixed_start_date .wscsd_fixed_delay_delete, .wscsd_custom_star_date .wscsd_delay_display .wscsd_fixed_delay .wscsd_fixed_start_date_delete, .wscsd_custom_star_date .wscsd_delay_display .wscsd_fixed_delay .wscsd_fixed_delay_delete {
+        padding-left: 7px;
+        cursor: pointer; }
+  .wscsd_custom_star_date .wscsd_fixed_start_dates_deleteall, .wscsd_custom_star_date .wscsd_fixed_delays_deleteall {
+    margin-left: 162px;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer; }
+    .wscsd_custom_star_date .wscsd_fixed_start_dates_deleteall svg, .wscsd_custom_star_date .wscsd_fixed_delays_deleteall svg {
+      margin-top: 3px; }
+    .wscsd_custom_star_date .wscsd_fixed_start_dates_deleteall:hover, .wscsd_custom_star_date .wscsd_fixed_delays_deleteall:hover {
+      background: #f1f1f1;
+      border-radius: 5px; }
+
+.woocommerce_variable_attributes .wscsd_custom_star_date {
+  margin: 20px 0px; }
+.woocommerce_variable_attributes .wscsd_variation .wscsd_dates_display, .woocommerce_variable_attributes .wscsd_variation .wscsd_delay_display {
+  padding: 5px 20px 0px 0px; }
+.woocommerce_variable_attributes .wscsd_variation .wscsd_fixed_start_dates_deleteall, .woocommerce_variable_attributes .wscsd_variation .wscsd_fixed_delays_deleteall {
+  margin-left: 0px; }
+
+/*# sourceMappingURL=admin-style.css.map */

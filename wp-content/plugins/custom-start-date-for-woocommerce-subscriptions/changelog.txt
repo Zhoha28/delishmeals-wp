@@ -1,0 +1,54 @@
+*** Custom Start Date For WooCommerce Subscriptions***
+2022-01-28 - version 1.1.9
+* Fixed synchronized renewal timezone issue
+* Fixed trial end error message
+2021-12-09 - version 1.1.8
+* Added synchronized renewal calculation when no amount is charged initially
+2021-12-07 - version 1.1.7
+* Fixed timezone renewal date issue
+* Added Scheduled status for parent orders with scheduled subscriptions
+* Fixed synchronized renewal calculations
+
+2021-11-24 - version 1.1.6
+* Prevent reactivation in customer account page for scheduled subscriptions
+
+2021-11-17 - version 1.1.5
+* Forced default value in calendar field
+
+2021-11-10 - version 1.1.4
+* Fixed invalid date issue in varibale subscriptions
+* Added check on the renewal dates for past start dates
+
+2021-11-08 - version 1.1.3
+* Updated translatable strings
+
+2021-11-08 - version 1.1.2
+* Fixed hidden dates for fixed dates in variable subscriptions
+* Added translatable strings
+
+2021-11-01 - version 1.1.1
+* Added cut-off date for variable subscriptions
+* Changed date formats on product page for variable suscriptions
+
+2021-09-14 - version 1.1
+* Added custom start date feature for variable subscription products
+
+2021-07-16 - version 1.0.5
+* Fixed start date in confirmation email 
+* Enabled change of address for scheduled subscription
+* Changed the cart date display to enable compatibility with WooCommerce Add-on extension
+
+2021-05-26 - version 1.0.4
+* Fixed next payment date when expires before first renewal
+
+2021-05-12 - version 1.0.3
+* Custom start date enabled for product added to the cart from somewhere else than the product page when the date is hidden or only displays one date
+
+2021-05-11 - version 1.0.2
+* Fixed hiden date input for fixed dates delay
+
+2021-04-14 - version 1.0.1
+* Fixed label for fixed delay
+
+2021-03-26 - version 1.0.0
+* Initial release

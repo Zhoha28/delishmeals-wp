@@ -1,0 +1,17 @@
+form.cart .wscsd_date_picker {
+  margin: 20px 0; }
+  form.cart .wscsd_date_picker label {
+    display: inline-block;
+    margin-right: 15px; }
+  form.cart .wscsd_date_picker select {
+    padding: 5px 30px 3px 10px; }
+  form.cart .wscsd_date_picker option {
+    padding: 3px 5px; }
+  form.cart .wscsd_date_picker input.wscsd_calendar_dates_field {
+    width: auto;
+    display: inline-block; }
+
+.single-product .entry .entry-summary .first-payment-date {
+  display: none; }
+
+/*# sourceMappingURL=style.css.map */
